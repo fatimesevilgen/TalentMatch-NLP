@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pymongo
+python-multipart
+spacy
+pdfplumber
+python-docx
+sentence-transformers
+faiss-cpu
+huggingface-hub
+email-validator
+python-dotenv
+langdetect
